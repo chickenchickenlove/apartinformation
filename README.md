@@ -7,13 +7,14 @@
 ## Dependencies
 + Spring Web
 + Spring Data JPA
-+ Lombok
-+ MySQL Driver
-+ H2 Database
-+ Validation
-+ Thymeleaf
-+ Spring Boot DevTools
 + Spring Data Jdbc
 + Spring Batch
++ Spring Boot DevTools
++ Lombok
++ Validation
++ Thymeleaf
 + BootStrap
++ MySQL Driver
++ H2 Database
+
 
