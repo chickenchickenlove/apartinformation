@@ -40,7 +40,7 @@ public class TestController {
             StringBuilder sb = new StringBuilder();
             sb.append("http://openapi.molit.go.kr/OpenAPI_ToolInstallPackage/service/rest/RTMSOBJSvc/getRTMSDataSvcAptTradeDev?");
             sb.append("ServiceKey=");
-            sb.append("f%2B4Qzb2y%2B19Z3ZowyE%2BHN%2BPODKYQcaHPe3NAoZxrLXHckpDJgQ%2FrUnxVs%2BVyPs0UWH4r9co7qB%2F%2BJNRC7RrYbg%3D%3D");
+            sb.append("---");
             sb.append("&pageNo=" + 1);
             sb.append("&numOfRows=" + 1000000);
             sb.append("&LAWD_CD=" + APART_CD_LIST[i]);
